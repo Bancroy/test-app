@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/App.js" line="126" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c13c80b-9859-41a5-83cb-065e7fb2e5ba" name="Default" comment="" />
+    <list default="true" id="8c13c80b-9859-41a5-83cb-065e7fb2e5ba" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -231,12 +233,12 @@
       <workItem from="1511613574712" duration="1048000" />
       <workItem from="1512420195195" duration="127000" />
       <workItem from="1512420384427" duration="17000" />
-      <workItem from="1512499302180" duration="1046000" />
+      <workItem from="1512499302180" duration="1690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27997000" />
+    <option name="totallyTimeSpent" value="28641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="0" width="1920" height="1050" extended-state="6" />
